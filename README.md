@@ -7,8 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=building+real+products+%E2%80%94+not+just+demos;applied+ai+in+real+systems;full-stack+developer;shipping+ideas+into+reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3200&pause=1200&color=CCFBF1&center=true&vCenter=true&width=650&lines=building+useful+ai+systems;turning+ideas+into+working+products;full-stack+developer;shipping+over+talking" />
 </p>
+
 <br/>
 
 ---
