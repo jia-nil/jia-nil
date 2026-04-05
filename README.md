@@ -16,13 +16,16 @@
 
 <br/>
 
-```
- Building real products
 
-Focused on applied AI and useful systems
 
- Full-stack: frontend, backend, APIs, databases
-```
+ &nbsp; Building real products
+<br/>
+
+ &nbsp; Focused on applied AI and useful systems
+<br/>
+ 
+ &nbsp; Full-stack: frontend, backend, APIs, databases
+
 
 <br/>
 
