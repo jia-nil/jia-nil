@@ -75,8 +75,11 @@ Focused on applied AI and useful systems
 <br/>
 
  &nbsp; Building AI-integrated fullstack products
+ <br/>
   &nbsp; 2nd year engineering student
+  <br/>
   &nbsp; Exploring practical AI and LLM integration
+  <br/>
   &nbsp; Open to collabs - AI, EdTech, mental health tech
 
 
