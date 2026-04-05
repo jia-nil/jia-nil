@@ -38,44 +38,7 @@
 
 <br/>
 
-## &nbsp;✦ &nbsp;things i've shipped
 
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### [JEE Tracker](https://jee-tracker-livid.vercel.app) &nbsp;↗
-
-*Productivity · EdTech*
-
-A focused exam tracker for JEE aspirants. Tracks chapters, subjects, and revision cycles in one clean interface — built to reduce the cognitive load of managing a massive syllabus.
-
-![React](https://img.shields.io/badge/React-1a1714?style=flat-square&logo=react&logoColor=c97d6e)
-![Vercel](https://img.shields.io/badge/Vercel-1a1714?style=flat-square&logo=vercel&logoColor=f5f0e8)
-![Dashboard](https://img.shields.io/badge/Dashboard-1a1714?style=flat-square&logoColor=c4a882)
-
-</td>
-<td width="50%" align="center">
-
-### [Nira](https://nira-black.vercel.app) &nbsp;↗
-
-*Mental Health · Wellness · AI*
-
-A compassionate mental health platform with an AI coaching layer. Thoughtful UX, calming design, support that feels genuinely accessible — built to make help feel less distant.
-
-![React](https://img.shields.io/badge/React-1a1714?style=flat-square&logo=react&logoColor=c97d6e)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1714?style=flat-square&logo=fastapi&logoColor=7a9688)
-![AI](https://img.shields.io/badge/AI%20Layer-1a1714?style=flat-square&logoColor=b8924a)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
@@ -114,21 +77,6 @@ A compassionate mental health platform with an AI coaching layer. Thoughtful UX,
 
 <br/>
 
-## &nbsp;✦ &nbsp;github stats
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jia-nil&show_icons=true&hide_border=true&title_color=c97d6e&icon_color=b8924a&text_color=1a1714&bg_color=f5f0e8&rank_icon=github&custom_title=jiya's+github+stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jia-nil&layout=compact&hide_border=true&title_color=c97d6e&text_color=1a1714&bg_color=f5f0e8&langs_count=6" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jia-nil&hide_border=true&background=f5f0e8&stroke=ede6d6&ring=c97d6e&fire=b8924a&currStreakLabel=1a1714&sideLabels=8a8070&dates=8a8070&currStreakNum=1a1714&sideNums=1a1714" height="150"/>
-
-</div>
 
 <br/>
 
@@ -144,9 +92,7 @@ A compassionate mental health platform with an AI coaching layer. Thoughtful UX,
 - 📚 &nbsp; 2nd year engineering student
 - 🌱 &nbsp; Exploring practical AI and LLM integration
 - 🤝 &nbsp; Open to collabs — AI, EdTech, mental health tech
-- ✦ &nbsp; Portfolio → [jiya.dev](https://jiya.dev)
 
-<br/>
 
 ---
 
@@ -159,7 +105,7 @@ A compassionate mental health platform with an AI coaching layer. Thoughtful UX,
 
 <br/>
 
-[![Email](https://img.shields.io/badge/email%20me-1a1714?style=for-the-badge&logo=gmail&logoColor=c97d6e)](mailto:jiya@email.com)
+[![Email](https://img.shields.io/badge/email%20me-1a1714?style=for-the-badge&logo=gmail&logoColor=c97d6e)](mailto:jiya48401@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github-1a1714?style=for-the-badge&logo=github&logoColor=f5f0e8)](https://github.com/jia-nil)
 
