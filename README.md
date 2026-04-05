@@ -2,18 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e4a,100:38bdf8&height=160&section=header&text=jiya&fontSize=52&fontColor=e6fffa&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=ccfbf1" width="100%" />
 <br/>
-<br/>
+
 
 <br/>
 
-<!-- PROFILE VIEWS + STATUS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=jia-nil&color=c97d6e&style=flat-square&label=profile+views)
-&nbsp;
-![Status](https://img.shields.io/badge/status-building%20something-b8924a?style=flat-square)
-&nbsp;
-![Open to](https://img.shields.io/badge/open%20to-collabs%20%26%20projects-7a9688?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=building+useful+ai+systems;turning+ideas+into+working+products;full-stack+developer;shipping+over+talking" />
+</p>
 
 <br/>
 
