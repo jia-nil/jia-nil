@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3200&pause=1200&color=CCFBF1&center=true&vCenter=true&width=650&lines=building+useful+ai+systems;turning+ideas+into+working+products;full-stack+developer;shipping+over+talking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=4000&pause=2000&color=CCFBF1&center=true&vCenter=true&width=600&lines=hey+welcome+to+my+github" />
 </p>
 
 <br/>
