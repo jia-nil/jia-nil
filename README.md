@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=4000&pause=2000&color=CCFBF1&center=true&vCenter=true&width=600&lines=hey+welcome+to+my+github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=26&duration=4000&pause=2000&color=E6FFFA&center=true&vCenter=true&width=600&lines=hey+welcome+to+my+github" />
 </p>
 
 <br/>
