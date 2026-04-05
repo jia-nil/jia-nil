@@ -17,9 +17,9 @@
 <br/>
 
 ```
-✦ Building real products
-✦ Focused on applied AI and useful systems
-✦ Full-stack: frontend, backend, APIs, databases
+ Building real products
+Focused on applied AI and useful systems
+ Full-stack: frontend, backend, APIs, databases
 ```
 
 <br/>
@@ -68,14 +68,14 @@
 
 <br/>
 
-## &nbsp;✦ &nbsp;currently
+## &nbsp; &nbsp;currently
 
 <br/>
 
-- 🔨 &nbsp; Building AI-integrated fullstack products
-- 📚 &nbsp; 2nd year engineering student
-- 🌱 &nbsp; Exploring practical AI and LLM integration
-- 🤝 &nbsp; Open to collabs - AI, EdTech, mental health tech
+ &nbsp; Building AI-integrated fullstack products
+  &nbsp; 2nd year engineering student
+  &nbsp; Exploring practical AI and LLM integration
+  &nbsp; Open to collabs - AI, EdTech, mental health tech
 
 
 ---
