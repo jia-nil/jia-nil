@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e4a,100:38bdf8&height=160&section=header&text=jiya&fontSize=52&fontColor=e6fffa&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=ccfbf1" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e4a,100:38bdf8&height=160&section=header&text=jiya&fontSize=52&fontColor=e6fffa&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=building%20useful%20ai%20systems%20%E2%80%A2%20shipping%20over%20talking&descAlignY=62&descSize=14&descColor=ccfbf1" width="100%" />
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=32&duration=3200&pause=1100&color=1a1714&center=true&vCenter=true&width=620&lines=Hey%2C+I%E2%80%99m+Jiya+%E2%9C%A6;I+build+AI-powered+products.;React+%2B+FastAPI+%2B+LLMs.;2nd+year+engineering+student.;Always+shipping+something.)](https://github.com/jia-nil)
 
 <br/>
 
@@ -24,10 +21,9 @@
 <br/>
 
 ```
-  ✦  student developer building real products, not just demos
-  ✦  deeply interested in ai and how it fits into useful systems  
-  ✦  comfortable across the full stack — frontend, backend, apis, databases
-  ✦  2nd year engineering · focused on practical ai integration
+✦ Building real products
+✦ Focused on applied AI and useful systems
+✦ Full-stack: frontend, backend, APIs, databases
 ```
 
 <br/>
@@ -38,9 +34,6 @@
 
 
 
-<br/>
-
----
 
 <br/>
 
@@ -71,9 +64,6 @@
 
 <br/>
 
----
-
-<br/>
 
 
 <br/>
@@ -89,7 +79,7 @@
 - 🔨 &nbsp; Building AI-integrated fullstack products
 - 📚 &nbsp; 2nd year engineering student
 - 🌱 &nbsp; Exploring practical AI and LLM integration
-- 🤝 &nbsp; Open to collabs — AI, EdTech, mental health tech
+- 🤝 &nbsp; Open to collabs - AI, EdTech, mental health tech
 
 
 ---
@@ -110,6 +100,5 @@
 <br/>
 
 <!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c97d6e,100:1a1714&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:134e4a,100:0f2027&height=120&section=footer" width="100%"/>
 </div>
