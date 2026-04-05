@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:14532d,100:4ade80&height=160&section=header&text=jiya&fontSize=52&fontColor=ecfff5&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=d1fae5" width="100%" />
-<!-- TYPING SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e4a,100:38bdf8&height=160&section=header&text=jiya&fontSize=52&fontColor=e6fffa&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=ccfbf1" width="100%" />
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=32&duration=3200&pause=1100&color=1a1714&center=true&vCenter=true&width=620&lines=Hey%2C+I%E2%80%99m+Jiya+%E2%9C%A6;I+build+AI-powered+products.;React+%2B+FastAPI+%2B+LLMs.;2nd+year+engineering+student.;Always+shipping+something.)](https://github.com/jia-nil)
