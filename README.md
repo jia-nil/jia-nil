@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1714,100:c97d6e&height=160&section=header&text=jiya&fontSize=52&fontColor=f5f0e8&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=e8dcc8" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=160&section=header&text=jiya&fontSize=52&fontColor=ecf7ff&fontAlignY=38&animation=fadeIn&fontFamily=georgia&desc=fullstack%20developer%20%E2%80%A2%20ai%20builder%20%E2%80%A2%20always%20shipping&descAlignY=62&descSize=14&descColor=d6f0ff" width="100%" />
 <!-- TYPING SVG -->
 <br/>
 
