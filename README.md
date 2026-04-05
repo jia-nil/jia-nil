@@ -18,7 +18,9 @@
 
 ```
  Building real products
+
 Focused on applied AI and useful systems
+
  Full-stack: frontend, backend, APIs, databases
 ```
 
